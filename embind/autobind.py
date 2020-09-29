@@ -122,6 +122,9 @@ def processIncludeFile(filename):
   if filename == "math_Householder.hxx":
     return False
 
+  if filename.startswith("RWGltf"):
+    return False
+
   return True
 
 # indicates if bindings for a class should be generated (returns True) or not (returns False)
