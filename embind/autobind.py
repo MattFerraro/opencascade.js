@@ -607,6 +607,9 @@ def processTypedef(typedef):
   if typedef.spelling == "TopoDS_ListOfShape":
     return False
 
+  if typedef.spelling.startswith("Handle_Xw"):
+    return False
+
   return True
 
 # indicates if bindings for an enum should be generated (returns True) or not (returns False)
