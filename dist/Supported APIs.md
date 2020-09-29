@@ -1305,7 +1305,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `BRepTopAdaptor_TopolTool`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_Builder`
+### ![](https://bit.ly/2El7GLC) `BRep_Builder`
 
 ### ![](https://bit.ly/3hIVfqr) `BRep_Curve3D`
 
