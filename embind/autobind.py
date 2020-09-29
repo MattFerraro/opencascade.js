@@ -536,7 +536,7 @@ def processClass(theClass):
     "TopExp",
     "BRepGProp",
     "BRepAlgoAPI",
-    "BRepBuilder",
+    "BRep_Builder",
     "BRep_Tool",
     "BRepBuilderAPI",
     "BRepFilletAPI",
