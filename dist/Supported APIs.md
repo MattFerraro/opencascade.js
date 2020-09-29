@@ -1305,7 +1305,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `BRepTopAdaptor_TopolTool`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_Builder`
+### ![](https://bit.ly/2El7GLC) `BRep_Builder`
 
 ### ![](https://bit.ly/3hIVfqr) `BRep_Curve3D`
 
@@ -1345,7 +1345,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `BRep_TVertex`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_Tool`
+### ![](https://bit.ly/2El7GLC) `BRep_Tool`
 
 ### ![](https://bit.ly/3hIVfqr) `BSplCLib`
 
@@ -1552,6 +1552,10 @@ This list only lists class definitions. It does not contain information about:
 ### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_ViewDriver`
 
 ### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_ViewToolDriver`
+
+### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_VisMaterialDriver`
+
+### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_VisMaterialToolDriver`
 
 ### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_VolumeDriver`
 
@@ -3388,6 +3392,8 @@ This list only lists class definitions. It does not contain information about:
 ### ![](https://bit.ly/3hIVfqr) `Graphic3d_MediaTextureSet`
 
 ### ![](https://bit.ly/3hIVfqr) `Graphic3d_MutableIndexBuffer`
+
+### ![](https://bit.ly/3hIVfqr) `Graphic3d_PBRMaterial`
 
 ### ![](https://bit.ly/3hIVfqr) `Graphic3d_PresentationAttributes`
 
@@ -5441,6 +5447,8 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `Message_PrinterOStream`
 
+### ![](https://bit.ly/3hIVfqr) `Message_PrinterSystemLog`
+
 ### ![](https://bit.ly/3hIVfqr) `Message_ProgressIndicator`
 
 ### ![](https://bit.ly/3hIVfqr) `Message_ProgressScale`
@@ -5688,6 +5696,8 @@ This list only lists class definitions. It does not contain information about:
 ### ![](https://bit.ly/3hIVfqr) `OpenGl_NamedResource`
 
 ### ![](https://bit.ly/3hIVfqr) `OpenGl_OitState`
+
+### ![](https://bit.ly/3hIVfqr) `OpenGl_PBREnvironment`
 
 ### ![](https://bit.ly/3hIVfqr) `OpenGl_PointSprite`
 
@@ -5955,8 +5965,6 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `Quantity_Color`
 
-### ![](https://bit.ly/3hIVfqr) `Quantity_ColorDefinitionError`
-
 ### ![](https://bit.ly/3hIVfqr) `Quantity_ColorRGBA`
 
 ### ![](https://bit.ly/3hIVfqr) `Quantity_Date`
@@ -5968,20 +5976,6 @@ This list only lists class definitions. It does not contain information about:
 ### ![](https://bit.ly/3hIVfqr) `Quantity_Period`
 
 ### ![](https://bit.ly/3hIVfqr) `Quantity_PeriodDefinitionError`
-
-### ![](https://bit.ly/3hIVfqr) `RWGltf_CafReader`
-
-### ![](https://bit.ly/3hIVfqr) `RWGltf_GltfLatePrimitiveArray`
-
-### ![](https://bit.ly/3hIVfqr) `RWGltf_GltfPrimArrayData`
-
-### ![](https://bit.ly/3hIVfqr) `RWGltf_MaterialCommon`
-
-### ![](https://bit.ly/3hIVfqr) `RWGltf_MaterialMetallicRoughness`
-
-### ![](https://bit.ly/3hIVfqr) `RWGltf_PrimitiveArrayReader`
-
-### ![](https://bit.ly/3hIVfqr) `RWGltf_TriangulationReader`
 
 ### ![](https://bit.ly/3hIVfqr) `RWHeaderSection`
 
@@ -5998,6 +5992,10 @@ This list only lists class definitions. It does not contain information about:
 ### ![](https://bit.ly/3hIVfqr) `RWMesh_CafReader`
 
 ### ![](https://bit.ly/3hIVfqr) `RWMesh_CoordinateSystemConverter`
+
+### ![](https://bit.ly/3hIVfqr) `RWMesh_FaceIterator`
+
+### ![](https://bit.ly/3hIVfqr) `RWMesh_MaterialMap`
 
 ### ![](https://bit.ly/3hIVfqr) `RWObj`
 
@@ -11057,6 +11055,10 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `XCAFDoc_ViewTool`
 
+### ![](https://bit.ly/3hIVfqr) `XCAFDoc_VisMaterial`
+
+### ![](https://bit.ly/3hIVfqr) `XCAFDoc_VisMaterialTool`
+
 ### ![](https://bit.ly/3hIVfqr) `XCAFDoc_Volume`
 
 ### ![](https://bit.ly/3hIVfqr) `XCAFNoteObjects_NoteObject`
@@ -11072,6 +11074,8 @@ This list only lists class definitions. It does not contain information about:
 ### ![](https://bit.ly/3hIVfqr) `XCAFPrs_Driver`
 
 ### ![](https://bit.ly/3hIVfqr) `XCAFPrs_Style`
+
+### ![](https://bit.ly/3hIVfqr) `XCAFPrs_Texture`
 
 ### ![](https://bit.ly/3hIVfqr) `XCAFView_Object`
 
@@ -11312,6 +11316,10 @@ This list only lists class definitions. It does not contain information about:
 ### ![](https://bit.ly/3hIVfqr) `XmlMXCAFDoc_ShapeToolDriver`
 
 ### ![](https://bit.ly/3hIVfqr) `XmlMXCAFDoc_ViewToolDriver`
+
+### ![](https://bit.ly/3hIVfqr) `XmlMXCAFDoc_VisMaterialDriver`
+
+### ![](https://bit.ly/3hIVfqr) `XmlMXCAFDoc_VisMaterialToolDriver`
 
 ### ![](https://bit.ly/3hIVfqr) `XmlMXCAFDoc_VolumeDriver`
 
