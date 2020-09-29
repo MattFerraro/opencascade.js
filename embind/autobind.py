@@ -528,6 +528,44 @@ def processClass(theClass):
   ):
     return False
 
+  if not theClass.spelling.startswith((
+    "Standard",
+    "GProp",
+    "TopoDS",
+    "TopAbs",
+    "TopExp",
+    "BRepGProp",
+    "BRepAlgoAPI",
+    "BRepBuilderAPI",
+    "BRepFilletAPI",
+    "BRepMesh",
+    "BRepPrimAPI",
+    "GC",
+    "STEPControl",
+    "XSControl",
+    "Poly",
+    "TColgp",
+    "StdPrs",
+    "IGESControl",
+    "Bnd",
+    "BRepBndLib",
+    "gp",
+    "StlAPI",
+    "GeomAPI",
+    "Geom",
+    "Geom2d",
+    "GCE2d",
+    "BRepLib",
+    "BRepOffsetAPI",
+    "ShapeFix",
+    "ShapeUpgrade",
+    "BRepAdaptor",
+    "GCPnts",
+    "Poly",
+    "BRepPrimAPI"
+  )):
+    return False
+
   return True
 
 # indicates if bindings for a method should be generated (returns True) or not (returns False)
