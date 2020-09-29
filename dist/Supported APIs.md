@@ -1345,7 +1345,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `BRep_TVertex`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_Tool`
+### ![](https://bit.ly/2El7GLC) `BRep_Tool`
 
 ### ![](https://bit.ly/3hIVfqr) `BSplCLib`
 
