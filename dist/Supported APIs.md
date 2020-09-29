@@ -11,7 +11,7 @@ This list only lists class definitions. It does not contain information about:
   * Most `typedef`'d specializations of the `NCollection_List<...>` class
 * Manually created bindings. These are not listed here.
 
-## List of supported API's
+## List of supported APIs
 
 ### ![](https://bit.ly/3hIVfqr) `AIS`
 
