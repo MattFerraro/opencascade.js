@@ -568,6 +568,7 @@ def processClass(theClass):
     "GCPnts",
     "Poly",
     "BRepPrimAPI"
+    "TopLoc_Location",
   )):
     return False
 
