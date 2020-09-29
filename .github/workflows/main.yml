@@ -19,7 +19,7 @@ jobs:
         id: cache-build
         uses: actions/cache@v2
         env:
-          cache-name: cache-build-intermediates
+          cache-name: cache-build-intermediates-lite-occtv7.4.0p1
         with:
           path: ./build
           key: ${{ runner.os }}-build-${{ env.cache-name }}-2
@@ -29,7 +29,7 @@ jobs:
         id: cache-build-3
         uses: actions/cache@v2
         env:
-          cache-name: cache-emscripten-intermediates
+          cache-name: cache-emscripten-intermediates-lite-occtv7.4.0p1
         with:
           path: ./emscripten-cache
           key: ${{ runner.os }}-build-${{ env.cache-name }}-2
