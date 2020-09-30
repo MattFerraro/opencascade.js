@@ -5,6 +5,7 @@ on:
 
 jobs:
   build:
+    timeout-minutes: 300
     name: Build OpenCascade.js
     # runs-on: self-hosted
     runs-on: ubuntu-latest
