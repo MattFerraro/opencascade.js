@@ -1553,6 +1553,10 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_ViewToolDriver`
 
+### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_VisMaterialDriver`
+
+### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_VisMaterialToolDriver`
+
 ### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_VolumeDriver`
 
 ### ![](https://bit.ly/3hIVfqr) `BinObjMgt_Persistent`
@@ -5688,6 +5692,8 @@ This list only lists class definitions. It does not contain information about:
 ### ![](https://bit.ly/3hIVfqr) `OpenGl_NamedResource`
 
 ### ![](https://bit.ly/3hIVfqr) `OpenGl_OitState`
+
+### ![](https://bit.ly/3hIVfqr) `OpenGl_PBREnvironment`
 
 ### ![](https://bit.ly/3hIVfqr) `OpenGl_PointSprite`
 
