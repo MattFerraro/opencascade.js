@@ -605,7 +605,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/2El7GLC) `BRepAdaptor_Surface`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo`
 
 ### ![](https://bit.ly/2El7GLC) `BRepAlgoAPI_Algo`
 
@@ -627,129 +627,129 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/2El7GLC) `BRepAlgoAPI_Splitter`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_AsDes`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_AsDes`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_BooleanOperation`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_BooleanOperation`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_Common`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_Common`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_Cut`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_Cut`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_FaceRestrictor`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_FaceRestrictor`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_Fuse`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_Fuse`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_Image`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_Image`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_Loop`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_Loop`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_NormalProjection`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_NormalProjection`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_Section`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_Section`
 
-### ![](https://bit.ly/3hIVfqr) `BRepAlgo_Tool`
+### ![](https://bit.ly/2El7GLC) `BRepAlgo_Tool`
 
 ### ![](https://bit.ly/3hIVfqr) `BRepApprox_Approx`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_ApproxLine`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_ApproxLine`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_BSpGradient_BFGSOfMyBSplGradientOfTheComputeLineOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_BSpGradient_BFGSOfMyBSplGradientOfTheComputeLineOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_BSpParFunctionOfMyBSplGradientOfTheComputeLineOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_BSpParFunctionOfMyBSplGradientOfTheComputeLineOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_BSpParLeastSquareOfMyBSplGradientOfTheComputeLineOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_BSpParLeastSquareOfMyBSplGradientOfTheComputeLineOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_Gradient_BFGSOfMyGradientOfTheComputeLineBezierOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_Gradient_BFGSOfMyGradientOfTheComputeLineBezierOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_Gradient_BFGSOfMyGradientbisOfTheComputeLineOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_Gradient_BFGSOfMyGradientbisOfTheComputeLineOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_MyBSplGradientOfTheComputeLineOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_MyBSplGradientOfTheComputeLineOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_MyGradientOfTheComputeLineBezierOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_MyGradientOfTheComputeLineBezierOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_MyGradientbisOfTheComputeLineOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_MyGradientbisOfTheComputeLineOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_ParFunctionOfMyGradientOfTheComputeLineBezierOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_ParFunctionOfMyGradientOfTheComputeLineBezierOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_ParFunctionOfMyGradientbisOfTheComputeLineOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_ParFunctionOfMyGradientbisOfTheComputeLineOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_ParLeastSquareOfMyGradientOfTheComputeLineBezierOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_ParLeastSquareOfMyGradientOfTheComputeLineBezierOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_ParLeastSquareOfMyGradientbisOfTheComputeLineOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_ParLeastSquareOfMyGradientbisOfTheComputeLineOfApprox`
 
 ### ![](https://bit.ly/3hIVfqr) `BRepApprox_ResConstraintOfMyGradientOfTheComputeLineBezierOfApprox`
 
 ### ![](https://bit.ly/3hIVfqr) `BRepApprox_ResConstraintOfMyGradientbisOfTheComputeLineOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_SurfaceTool`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_SurfaceTool`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_TheComputeLineBezierOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_TheComputeLineBezierOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_TheComputeLineOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_TheComputeLineOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_TheFunctionOfTheInt2SOfThePrmPrmSvSurfacesOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_TheFunctionOfTheInt2SOfThePrmPrmSvSurfacesOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_TheImpPrmSvSurfacesOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_TheImpPrmSvSurfacesOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_TheInt2SOfThePrmPrmSvSurfacesOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_TheInt2SOfThePrmPrmSvSurfacesOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_TheMultiLineOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_TheMultiLineOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_TheMultiLineToolOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_TheMultiLineToolOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_ThePrmPrmSvSurfacesOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_ThePrmPrmSvSurfacesOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepApprox_TheZerImpFuncOfTheImpPrmSvSurfacesOfApprox`
+### ![](https://bit.ly/2El7GLC) `BRepApprox_TheZerImpFuncOfTheImpPrmSvSurfacesOfApprox`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_AppFunc`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_AppFunc`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_AppFuncRoot`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_AppFuncRoot`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_AppFuncRst`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_AppFuncRst`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_AppFuncRstRst`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_AppFuncRstRst`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_AppSurf`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_AppSurf`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_AppSurface`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_AppSurface`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_BlendTool`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_BlendTool`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_CSWalking`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_CSWalking`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_CurvPointRadInv`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_CurvPointRadInv`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_Extremity`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_Extremity`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_HCurve2dTool`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_HCurve2dTool`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_HCurveTool`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_HCurveTool`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_Line`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_Line`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_PointOnRst`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_PointOnRst`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_RstRstConstRad`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_RstRstConstRad`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_RstRstEvolRad`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_RstRstEvolRad`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_RstRstLineBuilder`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_RstRstLineBuilder`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_SurfCurvConstRadInv`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_SurfCurvConstRadInv`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_SurfCurvEvolRadInv`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_SurfCurvEvolRadInv`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_SurfPointConstRadInv`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_SurfPointConstRadInv`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_SurfPointEvolRadInv`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_SurfPointEvolRadInv`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_SurfRstConstRad`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_SurfRstConstRad`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_SurfRstEvolRad`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_SurfRstEvolRad`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_SurfRstLineBuilder`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_SurfRstLineBuilder`
 
-### ![](https://bit.ly/3hIVfqr) `BRepBlend_Walking`
+### ![](https://bit.ly/2El7GLC) `BRepBlend_Walking`
 
 ### ![](https://bit.ly/2El7GLC) `BRepBndLib`
 
@@ -797,169 +797,169 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/2El7GLC) `BRepBuilderAPI_VertexInspector`
 
-### ![](https://bit.ly/3hIVfqr) `BRepCheck`
+### ![](https://bit.ly/2El7GLC) `BRepCheck`
 
-### ![](https://bit.ly/3hIVfqr) `BRepCheck_Analyzer`
+### ![](https://bit.ly/2El7GLC) `BRepCheck_Analyzer`
 
-### ![](https://bit.ly/3hIVfqr) `BRepCheck_Edge`
+### ![](https://bit.ly/2El7GLC) `BRepCheck_Edge`
 
-### ![](https://bit.ly/3hIVfqr) `BRepCheck_Face`
+### ![](https://bit.ly/2El7GLC) `BRepCheck_Face`
 
-### ![](https://bit.ly/3hIVfqr) `BRepCheck_Result`
+### ![](https://bit.ly/2El7GLC) `BRepCheck_Result`
 
-### ![](https://bit.ly/3hIVfqr) `BRepCheck_Shell`
+### ![](https://bit.ly/2El7GLC) `BRepCheck_Shell`
 
-### ![](https://bit.ly/3hIVfqr) `BRepCheck_Solid`
+### ![](https://bit.ly/2El7GLC) `BRepCheck_Solid`
 
-### ![](https://bit.ly/3hIVfqr) `BRepCheck_Vertex`
+### ![](https://bit.ly/2El7GLC) `BRepCheck_Vertex`
 
-### ![](https://bit.ly/3hIVfqr) `BRepCheck_Wire`
+### ![](https://bit.ly/2El7GLC) `BRepCheck_Wire`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass3d`
+### ![](https://bit.ly/2El7GLC) `BRepClass3d`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass3d_BndBoxTreeSelectorLine`
+### ![](https://bit.ly/2El7GLC) `BRepClass3d_BndBoxTreeSelectorLine`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass3d_BndBoxTreeSelectorPoint`
+### ![](https://bit.ly/2El7GLC) `BRepClass3d_BndBoxTreeSelectorPoint`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass3d_Intersector3d`
+### ![](https://bit.ly/2El7GLC) `BRepClass3d_Intersector3d`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass3d_SClassifier`
+### ![](https://bit.ly/2El7GLC) `BRepClass3d_SClassifier`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass3d_SolidClassifier`
+### ![](https://bit.ly/2El7GLC) `BRepClass3d_SolidClassifier`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass3d_SolidExplorer`
+### ![](https://bit.ly/2El7GLC) `BRepClass3d_SolidExplorer`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass3d_SolidPassiveClassifier`
+### ![](https://bit.ly/2El7GLC) `BRepClass3d_SolidPassiveClassifier`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass_Edge`
+### ![](https://bit.ly/2El7GLC) `BRepClass_Edge`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass_FClass2dOfFClassifier`
+### ![](https://bit.ly/2El7GLC) `BRepClass_FClass2dOfFClassifier`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass_FClassifier`
+### ![](https://bit.ly/2El7GLC) `BRepClass_FClassifier`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass_FaceClassifier`
+### ![](https://bit.ly/2El7GLC) `BRepClass_FaceClassifier`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass_FaceExplorer`
+### ![](https://bit.ly/2El7GLC) `BRepClass_FaceExplorer`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass_FacePassiveClassifier`
+### ![](https://bit.ly/2El7GLC) `BRepClass_FacePassiveClassifier`
 
-### ![](https://bit.ly/3hIVfqr) `BRepClass_Intersector`
+### ![](https://bit.ly/2El7GLC) `BRepClass_Intersector`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_DistShapeShape`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_DistShapeShape`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_DistanceSS`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_DistanceSS`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_ExtCC`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_ExtCC`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_ExtCF`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_ExtCF`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_ExtFF`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_ExtFF`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_ExtPC`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_ExtPC`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_ExtPF`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_ExtPF`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_OverlapTool`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_OverlapTool`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_Poly`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_Poly`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_SelfIntersection`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_SelfIntersection`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_ShapeProximity`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_ShapeProximity`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_SolutionElem`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_SolutionElem`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_TriangleSet`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_TriangleSet`
 
-### ![](https://bit.ly/3hIVfqr) `BRepExtrema_UnCompatibleShape`
+### ![](https://bit.ly/2El7GLC) `BRepExtrema_UnCompatibleShape`
 
 ### ![](https://bit.ly/3hIVfqr) `BRepFeat`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_Builder`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_Builder`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_Form`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_Form`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_Gluer`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_Gluer`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_MakeCylindricalHole`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_MakeCylindricalHole`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_MakeDPrism`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_MakeDPrism`
 
 ### ![](https://bit.ly/3hIVfqr) `BRepFeat_MakeLinearForm`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_MakePipe`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_MakePipe`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_MakePrism`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_MakePrism`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_MakeRevol`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_MakeRevol`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_MakeRevolutionForm`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_MakeRevolutionForm`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_RibSlot`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_RibSlot`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFeat_SplitShape`
+### ![](https://bit.ly/2El7GLC) `BRepFeat_SplitShape`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill`
+### ![](https://bit.ly/2El7GLC) `BRepFill`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_ACRLaw`
+### ![](https://bit.ly/2El7GLC) `BRepFill_ACRLaw`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_AdvancedEvolved`
+### ![](https://bit.ly/2El7GLC) `BRepFill_AdvancedEvolved`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_ApproxSeewing`
+### ![](https://bit.ly/2El7GLC) `BRepFill_ApproxSeewing`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_CompatibleWires`
+### ![](https://bit.ly/2El7GLC) `BRepFill_CompatibleWires`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_ComputeCLine`
+### ![](https://bit.ly/2El7GLC) `BRepFill_ComputeCLine`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_CurveConstraint`
+### ![](https://bit.ly/2El7GLC) `BRepFill_CurveConstraint`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_Draft`
+### ![](https://bit.ly/2El7GLC) `BRepFill_Draft`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_DraftLaw`
+### ![](https://bit.ly/2El7GLC) `BRepFill_DraftLaw`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_Edge3DLaw`
+### ![](https://bit.ly/2El7GLC) `BRepFill_Edge3DLaw`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_EdgeFaceAndOrder`
+### ![](https://bit.ly/2El7GLC) `BRepFill_EdgeFaceAndOrder`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_EdgeOnSurfLaw`
+### ![](https://bit.ly/2El7GLC) `BRepFill_EdgeOnSurfLaw`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_Evolved`
+### ![](https://bit.ly/2El7GLC) `BRepFill_Evolved`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_FaceAndOrder`
+### ![](https://bit.ly/2El7GLC) `BRepFill_FaceAndOrder`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_Filling`
+### ![](https://bit.ly/2El7GLC) `BRepFill_Filling`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_Generator`
+### ![](https://bit.ly/2El7GLC) `BRepFill_Generator`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_LocationLaw`
+### ![](https://bit.ly/2El7GLC) `BRepFill_LocationLaw`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_MultiLine`
+### ![](https://bit.ly/2El7GLC) `BRepFill_MultiLine`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_NSections`
+### ![](https://bit.ly/2El7GLC) `BRepFill_NSections`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_OffsetAncestors`
+### ![](https://bit.ly/2El7GLC) `BRepFill_OffsetAncestors`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_OffsetWire`
+### ![](https://bit.ly/2El7GLC) `BRepFill_OffsetWire`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_Pipe`
+### ![](https://bit.ly/2El7GLC) `BRepFill_Pipe`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_PipeShell`
+### ![](https://bit.ly/2El7GLC) `BRepFill_PipeShell`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_Section`
+### ![](https://bit.ly/2El7GLC) `BRepFill_Section`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_SectionLaw`
+### ![](https://bit.ly/2El7GLC) `BRepFill_SectionLaw`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_SectionPlacement`
+### ![](https://bit.ly/2El7GLC) `BRepFill_SectionPlacement`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_ShapeLaw`
+### ![](https://bit.ly/2El7GLC) `BRepFill_ShapeLaw`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_Sweep`
+### ![](https://bit.ly/2El7GLC) `BRepFill_Sweep`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_TrimEdgeTool`
+### ![](https://bit.ly/2El7GLC) `BRepFill_TrimEdgeTool`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_TrimShellCorner`
+### ![](https://bit.ly/2El7GLC) `BRepFill_TrimShellCorner`
 
-### ![](https://bit.ly/3hIVfqr) `BRepFill_TrimSurfaceTool`
+### ![](https://bit.ly/2El7GLC) `BRepFill_TrimSurfaceTool`
 
 ### ![](https://bit.ly/2El7GLC) `BRepFilletAPI_LocalOperation`
 
@@ -995,17 +995,17 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `BRepGProp_VinertGK`
 
-### ![](https://bit.ly/3hIVfqr) `BRepIntCurveSurface_Inter`
+### ![](https://bit.ly/2El7GLC) `BRepIntCurveSurface_Inter`
 
-### ![](https://bit.ly/3hIVfqr) `BRepLProp`
+### ![](https://bit.ly/2El7GLC) `BRepLProp`
 
-### ![](https://bit.ly/3hIVfqr) `BRepLProp_CLProps`
+### ![](https://bit.ly/2El7GLC) `BRepLProp_CLProps`
 
-### ![](https://bit.ly/3hIVfqr) `BRepLProp_CurveTool`
+### ![](https://bit.ly/2El7GLC) `BRepLProp_CurveTool`
 
-### ![](https://bit.ly/3hIVfqr) `BRepLProp_SLProps`
+### ![](https://bit.ly/2El7GLC) `BRepLProp_SLProps`
 
-### ![](https://bit.ly/3hIVfqr) `BRepLProp_SurfaceTool`
+### ![](https://bit.ly/2El7GLC) `BRepLProp_SurfaceTool`
 
 ### ![](https://bit.ly/2El7GLC) `BRepLib`
 
@@ -1035,11 +1035,11 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/2El7GLC) `BRepLib_MakeWire`
 
-### ![](https://bit.ly/3hIVfqr) `BRepMAT2d_BisectingLocus`
+### ![](https://bit.ly/2El7GLC) `BRepMAT2d_BisectingLocus`
 
-### ![](https://bit.ly/3hIVfqr) `BRepMAT2d_Explorer`
+### ![](https://bit.ly/2El7GLC) `BRepMAT2d_Explorer`
 
-### ![](https://bit.ly/3hIVfqr) `BRepMAT2d_LinkTopoBilo`
+### ![](https://bit.ly/2El7GLC) `BRepMAT2d_LinkTopoBilo`
 
 ### ![](https://bit.ly/3hIVfqr) `BRepMeshData_Curve`
 
@@ -1145,7 +1145,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/2El7GLC) `BRepMesh_VertexTool`
 
-### ![](https://bit.ly/3hIVfqr) `BRepOffset`
+### ![](https://bit.ly/2El7GLC) `BRepOffset`
 
 ### ![](https://bit.ly/2El7GLC) `BRepOffsetAPI_DraftAngle`
 
@@ -1173,25 +1173,25 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/2El7GLC) `BRepOffsetAPI_ThruSections`
 
-### ![](https://bit.ly/3hIVfqr) `BRepOffset_Analyse`
+### ![](https://bit.ly/2El7GLC) `BRepOffset_Analyse`
 
-### ![](https://bit.ly/3hIVfqr) `BRepOffset_Inter2d`
+### ![](https://bit.ly/2El7GLC) `BRepOffset_Inter2d`
 
-### ![](https://bit.ly/3hIVfqr) `BRepOffset_Inter3d`
+### ![](https://bit.ly/2El7GLC) `BRepOffset_Inter3d`
 
-### ![](https://bit.ly/3hIVfqr) `BRepOffset_Interval`
+### ![](https://bit.ly/2El7GLC) `BRepOffset_Interval`
 
-### ![](https://bit.ly/3hIVfqr) `BRepOffset_MakeLoops`
+### ![](https://bit.ly/2El7GLC) `BRepOffset_MakeLoops`
 
 ### ![](https://bit.ly/3hIVfqr) `BRepOffset_MakeOffset`
 
-### ![](https://bit.ly/3hIVfqr) `BRepOffset_MakeSimpleOffset`
+### ![](https://bit.ly/2El7GLC) `BRepOffset_MakeSimpleOffset`
 
-### ![](https://bit.ly/3hIVfqr) `BRepOffset_Offset`
+### ![](https://bit.ly/2El7GLC) `BRepOffset_Offset`
 
-### ![](https://bit.ly/3hIVfqr) `BRepOffset_SimpleOffset`
+### ![](https://bit.ly/2El7GLC) `BRepOffset_SimpleOffset`
 
-### ![](https://bit.ly/3hIVfqr) `BRepOffset_Tool`
+### ![](https://bit.ly/2El7GLC) `BRepOffset_Tool`
 
 ### ![](https://bit.ly/2El7GLC) `BRepPrimAPI_MakeBox`
 
@@ -1217,45 +1217,45 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/2El7GLC) `BRepPrimAPI_MakeWedge`
 
-### ![](https://bit.ly/3hIVfqr) `BRepPrim_Builder`
+### ![](https://bit.ly/2El7GLC) `BRepPrim_Builder`
 
-### ![](https://bit.ly/3hIVfqr) `BRepPrim_Cone`
+### ![](https://bit.ly/2El7GLC) `BRepPrim_Cone`
 
-### ![](https://bit.ly/3hIVfqr) `BRepPrim_Cylinder`
+### ![](https://bit.ly/2El7GLC) `BRepPrim_Cylinder`
 
-### ![](https://bit.ly/3hIVfqr) `BRepPrim_FaceBuilder`
+### ![](https://bit.ly/2El7GLC) `BRepPrim_FaceBuilder`
 
-### ![](https://bit.ly/3hIVfqr) `BRepPrim_GWedge`
+### ![](https://bit.ly/2El7GLC) `BRepPrim_GWedge`
 
-### ![](https://bit.ly/3hIVfqr) `BRepPrim_OneAxis`
+### ![](https://bit.ly/2El7GLC) `BRepPrim_OneAxis`
 
-### ![](https://bit.ly/3hIVfqr) `BRepPrim_Revolution`
+### ![](https://bit.ly/2El7GLC) `BRepPrim_Revolution`
 
-### ![](https://bit.ly/3hIVfqr) `BRepPrim_Sphere`
+### ![](https://bit.ly/2El7GLC) `BRepPrim_Sphere`
 
-### ![](https://bit.ly/3hIVfqr) `BRepPrim_Torus`
+### ![](https://bit.ly/2El7GLC) `BRepPrim_Torus`
 
-### ![](https://bit.ly/3hIVfqr) `BRepPrim_Wedge`
+### ![](https://bit.ly/2El7GLC) `BRepPrim_Wedge`
 
-### ![](https://bit.ly/3hIVfqr) `BRepProj_Projection`
+### ![](https://bit.ly/2El7GLC) `BRepProj_Projection`
 
-### ![](https://bit.ly/3hIVfqr) `BRepSweep_Builder`
+### ![](https://bit.ly/2El7GLC) `BRepSweep_Builder`
 
-### ![](https://bit.ly/3hIVfqr) `BRepSweep_Iterator`
+### ![](https://bit.ly/2El7GLC) `BRepSweep_Iterator`
 
-### ![](https://bit.ly/3hIVfqr) `BRepSweep_NumLinearRegularSweep`
+### ![](https://bit.ly/2El7GLC) `BRepSweep_NumLinearRegularSweep`
 
-### ![](https://bit.ly/3hIVfqr) `BRepSweep_Prism`
+### ![](https://bit.ly/2El7GLC) `BRepSweep_Prism`
 
-### ![](https://bit.ly/3hIVfqr) `BRepSweep_Revol`
+### ![](https://bit.ly/2El7GLC) `BRepSweep_Revol`
 
-### ![](https://bit.ly/3hIVfqr) `BRepSweep_Rotation`
+### ![](https://bit.ly/2El7GLC) `BRepSweep_Rotation`
 
-### ![](https://bit.ly/3hIVfqr) `BRepSweep_Tool`
+### ![](https://bit.ly/2El7GLC) `BRepSweep_Tool`
 
-### ![](https://bit.ly/3hIVfqr) `BRepSweep_Translation`
+### ![](https://bit.ly/2El7GLC) `BRepSweep_Translation`
 
-### ![](https://bit.ly/3hIVfqr) `BRepSweep_Trsf`
+### ![](https://bit.ly/2El7GLC) `BRepSweep_Trsf`
 
 ### ![](https://bit.ly/3hIVfqr) `BRepTest`
 
@@ -1263,87 +1263,87 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `BRepTest_Objects`
 
-### ![](https://bit.ly/3hIVfqr) `BRepToIGESBRep_Entity`
+### ![](https://bit.ly/2El7GLC) `BRepToIGESBRep_Entity`
 
-### ![](https://bit.ly/3hIVfqr) `BRepToIGES_BREntity`
+### ![](https://bit.ly/2El7GLC) `BRepToIGES_BREntity`
 
-### ![](https://bit.ly/3hIVfqr) `BRepToIGES_BRShell`
+### ![](https://bit.ly/2El7GLC) `BRepToIGES_BRShell`
 
-### ![](https://bit.ly/3hIVfqr) `BRepToIGES_BRSolid`
+### ![](https://bit.ly/2El7GLC) `BRepToIGES_BRSolid`
 
-### ![](https://bit.ly/3hIVfqr) `BRepToIGES_BRWire`
+### ![](https://bit.ly/2El7GLC) `BRepToIGES_BRWire`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools`
+### ![](https://bit.ly/2El7GLC) `BRepTools`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_GTrsfModification`
+### ![](https://bit.ly/2El7GLC) `BRepTools_GTrsfModification`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_History`
+### ![](https://bit.ly/2El7GLC) `BRepTools_History`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_Modification`
+### ![](https://bit.ly/2El7GLC) `BRepTools_Modification`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_Modifier`
+### ![](https://bit.ly/2El7GLC) `BRepTools_Modifier`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_NurbsConvertModification`
+### ![](https://bit.ly/2El7GLC) `BRepTools_NurbsConvertModification`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_Quilt`
+### ![](https://bit.ly/2El7GLC) `BRepTools_Quilt`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_ReShape`
+### ![](https://bit.ly/2El7GLC) `BRepTools_ReShape`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_ShapeSet`
+### ![](https://bit.ly/2El7GLC) `BRepTools_ShapeSet`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_Substitution`
+### ![](https://bit.ly/2El7GLC) `BRepTools_Substitution`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_TrsfModification`
+### ![](https://bit.ly/2El7GLC) `BRepTools_TrsfModification`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTools_WireExplorer`
+### ![](https://bit.ly/2El7GLC) `BRepTools_WireExplorer`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTopAdaptor_FClass2d`
+### ![](https://bit.ly/2El7GLC) `BRepTopAdaptor_FClass2d`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTopAdaptor_HVertex`
+### ![](https://bit.ly/2El7GLC) `BRepTopAdaptor_HVertex`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTopAdaptor_Tool`
+### ![](https://bit.ly/2El7GLC) `BRepTopAdaptor_Tool`
 
-### ![](https://bit.ly/3hIVfqr) `BRepTopAdaptor_TopolTool`
+### ![](https://bit.ly/2El7GLC) `BRepTopAdaptor_TopolTool`
 
 ### ![](https://bit.ly/2El7GLC) `BRep_Builder`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_Curve3D`
+### ![](https://bit.ly/2El7GLC) `BRep_Curve3D`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_CurveOn2Surfaces`
+### ![](https://bit.ly/2El7GLC) `BRep_CurveOn2Surfaces`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_CurveOnClosedSurface`
+### ![](https://bit.ly/2El7GLC) `BRep_CurveOnClosedSurface`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_CurveOnSurface`
+### ![](https://bit.ly/2El7GLC) `BRep_CurveOnSurface`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_CurveRepresentation`
+### ![](https://bit.ly/2El7GLC) `BRep_CurveRepresentation`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_GCurve`
+### ![](https://bit.ly/2El7GLC) `BRep_GCurve`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_PointOnCurve`
+### ![](https://bit.ly/2El7GLC) `BRep_PointOnCurve`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_PointOnCurveOnSurface`
+### ![](https://bit.ly/2El7GLC) `BRep_PointOnCurveOnSurface`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_PointOnSurface`
+### ![](https://bit.ly/2El7GLC) `BRep_PointOnSurface`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_PointRepresentation`
+### ![](https://bit.ly/2El7GLC) `BRep_PointRepresentation`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_PointsOnSurface`
+### ![](https://bit.ly/2El7GLC) `BRep_PointsOnSurface`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_Polygon3D`
+### ![](https://bit.ly/2El7GLC) `BRep_Polygon3D`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_PolygonOnClosedSurface`
+### ![](https://bit.ly/2El7GLC) `BRep_PolygonOnClosedSurface`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_PolygonOnClosedTriangulation`
+### ![](https://bit.ly/2El7GLC) `BRep_PolygonOnClosedTriangulation`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_PolygonOnSurface`
+### ![](https://bit.ly/2El7GLC) `BRep_PolygonOnSurface`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_PolygonOnTriangulation`
+### ![](https://bit.ly/2El7GLC) `BRep_PolygonOnTriangulation`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_TEdge`
+### ![](https://bit.ly/2El7GLC) `BRep_TEdge`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_TFace`
+### ![](https://bit.ly/2El7GLC) `BRep_TFace`
 
-### ![](https://bit.ly/3hIVfqr) `BRep_TVertex`
+### ![](https://bit.ly/2El7GLC) `BRep_TVertex`
 
 ### ![](https://bit.ly/2El7GLC) `BRep_Tool`
 
@@ -1553,10 +1553,6 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_ViewToolDriver`
 
-### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_VisMaterialDriver`
-
-### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_VisMaterialToolDriver`
-
 ### ![](https://bit.ly/3hIVfqr) `BinMXCAFDoc_VolumeDriver`
 
 ### ![](https://bit.ly/3hIVfqr) `BinObjMgt_Persistent`
@@ -1765,17 +1761,17 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `CSLib_NormalPolyDef`
 
-### ![](https://bit.ly/3hIVfqr) `ChFi2d`
+### ![](https://bit.ly/2El7GLC) `ChFi2d`
 
-### ![](https://bit.ly/3hIVfqr) `ChFi2d_AnaFilletAlgo`
+### ![](https://bit.ly/2El7GLC) `ChFi2d_AnaFilletAlgo`
 
-### ![](https://bit.ly/3hIVfqr) `ChFi2d_Builder`
+### ![](https://bit.ly/2El7GLC) `ChFi2d_Builder`
 
-### ![](https://bit.ly/3hIVfqr) `ChFi2d_ChamferAPI`
+### ![](https://bit.ly/2El7GLC) `ChFi2d_ChamferAPI`
 
-### ![](https://bit.ly/3hIVfqr) `ChFi2d_FilletAPI`
+### ![](https://bit.ly/2El7GLC) `ChFi2d_FilletAPI`
 
-### ![](https://bit.ly/3hIVfqr) `ChFi2d_FilletAlgo`
+### ![](https://bit.ly/2El7GLC) `ChFi2d_FilletAlgo`
 
 ### ![](https://bit.ly/3hIVfqr) `ChFi3d`
 
@@ -3393,9 +3389,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `Graphic3d_MutableIndexBuffer`
 
-### ![](https://bit.ly/2El7GLC) `Graphic3d_PBRMaterial`
-
-### ![](https://bit.ly/2El7GLC) `Graphic3d_PresentationAttributes`
+### ![](https://bit.ly/3hIVfqr) `Graphic3d_PresentationAttributes`
 
 ### ![](https://bit.ly/3hIVfqr) `Graphic3d_PriorityDefinitionError`
 
@@ -3679,161 +3673,161 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `IFGraph_SubPartsIterator`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect`
+### ![](https://bit.ly/2El7GLC) `IFSelect`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_Act`
+### ![](https://bit.ly/2El7GLC) `IFSelect_Act`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_Activator`
+### ![](https://bit.ly/2El7GLC) `IFSelect_Activator`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_AppliedModifiers`
+### ![](https://bit.ly/2El7GLC) `IFSelect_AppliedModifiers`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_BasicDumper`
+### ![](https://bit.ly/2El7GLC) `IFSelect_BasicDumper`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_CheckCounter`
+### ![](https://bit.ly/2El7GLC) `IFSelect_CheckCounter`
 
 ### ![](https://bit.ly/3hIVfqr) `IFSelect_ContextModif`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_ContextWrite`
+### ![](https://bit.ly/2El7GLC) `IFSelect_ContextWrite`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_DispGlobal`
+### ![](https://bit.ly/2El7GLC) `IFSelect_DispGlobal`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_DispPerCount`
+### ![](https://bit.ly/2El7GLC) `IFSelect_DispPerCount`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_DispPerFiles`
+### ![](https://bit.ly/2El7GLC) `IFSelect_DispPerFiles`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_DispPerOne`
+### ![](https://bit.ly/2El7GLC) `IFSelect_DispPerOne`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_DispPerSignature`
+### ![](https://bit.ly/2El7GLC) `IFSelect_DispPerSignature`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_Dispatch`
+### ![](https://bit.ly/2El7GLC) `IFSelect_Dispatch`
 
 ### ![](https://bit.ly/3hIVfqr) `IFSelect_EditForm`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_Editor`
+### ![](https://bit.ly/2El7GLC) `IFSelect_Editor`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_Functions`
+### ![](https://bit.ly/2El7GLC) `IFSelect_Functions`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_GeneralModifier`
+### ![](https://bit.ly/2El7GLC) `IFSelect_GeneralModifier`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_GraphCounter`
+### ![](https://bit.ly/2El7GLC) `IFSelect_GraphCounter`
 
 ### ![](https://bit.ly/3hIVfqr) `IFSelect_HSeqOfSelection`
 
 ### ![](https://bit.ly/3hIVfqr) `IFSelect_IntParam`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_ListEditor`
+### ![](https://bit.ly/2El7GLC) `IFSelect_ListEditor`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_ModelCopier`
+### ![](https://bit.ly/2El7GLC) `IFSelect_ModelCopier`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_ModifEditForm`
+### ![](https://bit.ly/2El7GLC) `IFSelect_ModifEditForm`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_ModifReorder`
+### ![](https://bit.ly/2El7GLC) `IFSelect_ModifReorder`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_Modifier`
+### ![](https://bit.ly/2El7GLC) `IFSelect_Modifier`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_PacketList`
+### ![](https://bit.ly/2El7GLC) `IFSelect_PacketList`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_ParamEditor`
+### ![](https://bit.ly/2El7GLC) `IFSelect_ParamEditor`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectAnyList`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectAnyList`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectAnyType`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectAnyType`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectBase`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectBase`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectCombine`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectCombine`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectControl`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectControl`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectDeduct`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectDeduct`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectDiff`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectDiff`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectEntityNumber`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectEntityNumber`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectErrorEntities`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectErrorEntities`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectExplore`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectExplore`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectExtract`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectExtract`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectFlag`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectFlag`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectInList`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectInList`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectIncorrectEntities`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectIncorrectEntities`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectIntersection`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectIntersection`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectModelEntities`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectModelEntities`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectModelRoots`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectModelRoots`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectPointed`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectPointed`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectRange`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectRange`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectRootComps`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectRootComps`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectRoots`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectRoots`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectSent`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectSent`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectShared`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectShared`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectSharing`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectSharing`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectSignature`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectSignature`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectSignedShared`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectSignedShared`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectSignedSharing`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectSignedSharing`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectSuite`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectSuite`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectType`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectType`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectUnion`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectUnion`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectUnknownEntities`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectUnknownEntities`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_Selection`
+### ![](https://bit.ly/2El7GLC) `IFSelect_Selection`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SelectionIterator`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SelectionIterator`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SessionDumper`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SessionDumper`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SessionFile`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SessionFile`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SessionPilot`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SessionPilot`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_ShareOut`
+### ![](https://bit.ly/2El7GLC) `IFSelect_ShareOut`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_ShareOutResult`
+### ![](https://bit.ly/2El7GLC) `IFSelect_ShareOutResult`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SignAncestor`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SignAncestor`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SignCategory`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SignCategory`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SignCounter`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SignCounter`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SignMultiple`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SignMultiple`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SignType`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SignType`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SignValidity`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SignValidity`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_Signature`
+### ![](https://bit.ly/2El7GLC) `IFSelect_Signature`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_SignatureList`
+### ![](https://bit.ly/2El7GLC) `IFSelect_SignatureList`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_TransformStandard`
+### ![](https://bit.ly/2El7GLC) `IFSelect_TransformStandard`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_Transformer`
+### ![](https://bit.ly/2El7GLC) `IFSelect_Transformer`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_WorkLibrary`
+### ![](https://bit.ly/2El7GLC) `IFSelect_WorkLibrary`
 
-### ![](https://bit.ly/3hIVfqr) `IFSelect_WorkSession`
+### ![](https://bit.ly/2El7GLC) `IFSelect_WorkSession`
 
 ### ![](https://bit.ly/3hIVfqr) `IGESAppli`
 
@@ -5429,33 +5423,31 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `MeshVS_VectorPrsBuilder`
 
-### ![](https://bit.ly/3hIVfqr) `Message`
+### ![](https://bit.ly/2El7GLC) `Message`
 
-### ![](https://bit.ly/3hIVfqr) `Message_Alert`
+### ![](https://bit.ly/2El7GLC) `Message_Alert`
 
-### ![](https://bit.ly/3hIVfqr) `Message_Algorithm`
+### ![](https://bit.ly/2El7GLC) `Message_Algorithm`
 
-### ![](https://bit.ly/3hIVfqr) `Message_ExecStatus`
+### ![](https://bit.ly/2El7GLC) `Message_ExecStatus`
 
-### ![](https://bit.ly/3hIVfqr) `Message_Messenger`
+### ![](https://bit.ly/2El7GLC) `Message_Messenger`
 
-### ![](https://bit.ly/3hIVfqr) `Message_Msg`
+### ![](https://bit.ly/2El7GLC) `Message_Msg`
 
-### ![](https://bit.ly/3hIVfqr) `Message_MsgFile`
+### ![](https://bit.ly/2El7GLC) `Message_MsgFile`
 
-### ![](https://bit.ly/3hIVfqr) `Message_Printer`
+### ![](https://bit.ly/2El7GLC) `Message_Printer`
 
-### ![](https://bit.ly/3hIVfqr) `Message_PrinterOStream`
-
-### ![](https://bit.ly/2El7GLC) `Message_PrinterSystemLog`
+### ![](https://bit.ly/2El7GLC) `Message_PrinterOStream`
 
 ### ![](https://bit.ly/2El7GLC) `Message_ProgressIndicator`
 
-### ![](https://bit.ly/3hIVfqr) `Message_ProgressScale`
+### ![](https://bit.ly/2El7GLC) `Message_ProgressScale`
 
-### ![](https://bit.ly/3hIVfqr) `Message_ProgressSentry`
+### ![](https://bit.ly/2El7GLC) `Message_ProgressSentry`
 
-### ![](https://bit.ly/3hIVfqr) `Message_Report`
+### ![](https://bit.ly/2El7GLC) `Message_Report`
 
 ### ![](https://bit.ly/3hIVfqr) `MoniTool_AttrList`
 
@@ -5696,8 +5688,6 @@ This list only lists class definitions. It does not contain information about:
 ### ![](https://bit.ly/3hIVfqr) `OpenGl_NamedResource`
 
 ### ![](https://bit.ly/3hIVfqr) `OpenGl_OitState`
-
-### ![](https://bit.ly/3hIVfqr) `OpenGl_PBREnvironment`
 
 ### ![](https://bit.ly/3hIVfqr) `OpenGl_PointSprite`
 
@@ -5965,7 +5955,9 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `Quantity_Color`
 
-### ![](https://bit.ly/2El7GLC) `Quantity_ColorRGBA`
+### ![](https://bit.ly/3hIVfqr) `Quantity_ColorDefinitionError`
+
+### ![](https://bit.ly/3hIVfqr) `Quantity_ColorRGBA`
 
 ### ![](https://bit.ly/3hIVfqr) `Quantity_Date`
 
@@ -5979,17 +5971,11 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `RWGltf_CafReader`
 
-### ![](https://bit.ly/2El7GLC) `RWGltf_CafWriter`
+### ![](https://bit.ly/3hIVfqr) `RWGltf_GltfLatePrimitiveArray`
 
-### ![](https://bit.ly/2El7GLC) `RWGltf_GltfLatePrimitiveArray`
+### ![](https://bit.ly/3hIVfqr) `RWGltf_GltfPrimArrayData`
 
-### ![](https://bit.ly/2El7GLC) `RWGltf_GltfMaterialMap`
-
-### ![](https://bit.ly/2El7GLC) `RWGltf_GltfPrimArrayData`
-
-### ![](https://bit.ly/2El7GLC) `RWGltf_GltfSceneNodeMap`
-
-### ![](https://bit.ly/2El7GLC) `RWGltf_MaterialCommon`
+### ![](https://bit.ly/3hIVfqr) `RWGltf_MaterialCommon`
 
 ### ![](https://bit.ly/3hIVfqr) `RWGltf_MaterialMetallicRoughness`
 
@@ -6013,11 +5999,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `RWMesh_CoordinateSystemConverter`
 
-### ![](https://bit.ly/2El7GLC) `RWMesh_FaceIterator`
-
-### ![](https://bit.ly/2El7GLC) `RWMesh_MaterialMap`
-
-### ![](https://bit.ly/2El7GLC) `RWObj`
+### ![](https://bit.ly/3hIVfqr) `RWObj`
 
 ### ![](https://bit.ly/3hIVfqr) `RWObj_CafReader`
 
@@ -7475,19 +7457,19 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `ShapeCustom_TrsfModification`
 
-### ![](https://bit.ly/3hIVfqr) `ShapeExtend`
+### ![](https://bit.ly/2El7GLC) `ShapeExtend`
 
-### ![](https://bit.ly/3hIVfqr) `ShapeExtend_BasicMsgRegistrator`
+### ![](https://bit.ly/2El7GLC) `ShapeExtend_BasicMsgRegistrator`
 
-### ![](https://bit.ly/3hIVfqr) `ShapeExtend_ComplexCurve`
+### ![](https://bit.ly/2El7GLC) `ShapeExtend_ComplexCurve`
 
-### ![](https://bit.ly/3hIVfqr) `ShapeExtend_CompositeSurface`
+### ![](https://bit.ly/2El7GLC) `ShapeExtend_CompositeSurface`
 
-### ![](https://bit.ly/3hIVfqr) `ShapeExtend_Explorer`
+### ![](https://bit.ly/2El7GLC) `ShapeExtend_Explorer`
 
-### ![](https://bit.ly/3hIVfqr) `ShapeExtend_MsgRegistrator`
+### ![](https://bit.ly/2El7GLC) `ShapeExtend_MsgRegistrator`
 
-### ![](https://bit.ly/3hIVfqr) `ShapeExtend_WireData`
+### ![](https://bit.ly/2El7GLC) `ShapeExtend_WireData`
 
 ### ![](https://bit.ly/2El7GLC) `ShapeFix`
 
@@ -9837,7 +9819,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `TColStd_HArray2OfTransient`
 
-### ![](https://bit.ly/3hIVfqr) `TColStd_HPackedMapOfInteger`
+### ![](https://bit.ly/2El7GLC) `TColStd_HPackedMapOfInteger`
 
 ### ![](https://bit.ly/3hIVfqr) `TColStd_HSequenceOfAsciiString`
 
@@ -9853,7 +9835,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `TColStd_HSequenceOfTransient`
 
-### ![](https://bit.ly/3hIVfqr) `TColStd_PackedMapOfInteger`
+### ![](https://bit.ly/2El7GLC) `TColStd_PackedMapOfInteger`
 
 ### ![](https://bit.ly/3hIVfqr) `TColgp_HArray1OfCirc2d`
 
@@ -10281,15 +10263,15 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/2El7GLC) `TopExp_Explorer`
 
-### ![](https://bit.ly/3hIVfqr) `TopLoc_Datum3D`
+### ![](https://bit.ly/2El7GLC) `TopLoc_Datum3D`
 
-### ![](https://bit.ly/3hIVfqr) `TopLoc_ItemLocation`
+### ![](https://bit.ly/2El7GLC) `TopLoc_ItemLocation`
 
-### ![](https://bit.ly/3hIVfqr) `TopLoc_Location`
+### ![](https://bit.ly/2El7GLC) `TopLoc_Location`
 
-### ![](https://bit.ly/3hIVfqr) `TopLoc_SListNodeOfItemLocation`
+### ![](https://bit.ly/2El7GLC) `TopLoc_SListNodeOfItemLocation`
 
-### ![](https://bit.ly/3hIVfqr) `TopLoc_SListOfItemLocation`
+### ![](https://bit.ly/2El7GLC) `TopLoc_SListOfItemLocation`
 
 ### ![](https://bit.ly/3hIVfqr) `TopOpeBRep`
 
@@ -10561,7 +10543,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `TopOpeBRep_WPointInterIterator`
 
-### ![](https://bit.ly/3hIVfqr) `TopTools`
+### ![](https://bit.ly/2El7GLC) `TopTools`
 
 ### ![](https://bit.ly/3hIVfqr) `TopTools_HArray1OfListOfShape`
 
@@ -10571,15 +10553,15 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `TopTools_HSequenceOfShape`
 
-### ![](https://bit.ly/3hIVfqr) `TopTools_LocationSet`
+### ![](https://bit.ly/2El7GLC) `TopTools_LocationSet`
 
-### ![](https://bit.ly/3hIVfqr) `TopTools_MutexForShapeProvider`
+### ![](https://bit.ly/2El7GLC) `TopTools_MutexForShapeProvider`
 
-### ![](https://bit.ly/3hIVfqr) `TopTools_OrientedShapeMapHasher`
+### ![](https://bit.ly/2El7GLC) `TopTools_OrientedShapeMapHasher`
 
-### ![](https://bit.ly/3hIVfqr) `TopTools_ShapeMapHasher`
+### ![](https://bit.ly/2El7GLC) `TopTools_ShapeMapHasher`
 
-### ![](https://bit.ly/3hIVfqr) `TopTools_ShapeSet`
+### ![](https://bit.ly/2El7GLC) `TopTools_ShapeSet`
 
 ### ![](https://bit.ly/3hIVfqr) `TopTrans_CurveTransition`
 
@@ -11075,11 +11057,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `XCAFDoc_ViewTool`
 
-### ![](https://bit.ly/2El7GLC) `XCAFDoc_VisMaterial`
-
-### ![](https://bit.ly/2El7GLC) `XCAFDoc_VisMaterialTool`
-
-### ![](https://bit.ly/2El7GLC) `XCAFDoc_Volume`
+### ![](https://bit.ly/3hIVfqr) `XCAFDoc_Volume`
 
 ### ![](https://bit.ly/3hIVfqr) `XCAFNoteObjects_NoteObject`
 
@@ -11095,9 +11073,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `XCAFPrs_Style`
 
-### ![](https://bit.ly/2El7GLC) `XCAFPrs_Texture`
-
-### ![](https://bit.ly/2El7GLC) `XCAFView_Object`
+### ![](https://bit.ly/3hIVfqr) `XCAFView_Object`
 
 ### ![](https://bit.ly/3hIVfqr) `XDEDRAW`
 
@@ -11337,11 +11313,7 @@ This list only lists class definitions. It does not contain information about:
 
 ### ![](https://bit.ly/3hIVfqr) `XmlMXCAFDoc_ViewToolDriver`
 
-### ![](https://bit.ly/2El7GLC) `XmlMXCAFDoc_VisMaterialDriver`
-
-### ![](https://bit.ly/2El7GLC) `XmlMXCAFDoc_VisMaterialToolDriver`
-
-### ![](https://bit.ly/2El7GLC) `XmlMXCAFDoc_VolumeDriver`
+### ![](https://bit.ly/3hIVfqr) `XmlMXCAFDoc_VolumeDriver`
 
 ### ![](https://bit.ly/3hIVfqr) `XmlObjMgt`
 
