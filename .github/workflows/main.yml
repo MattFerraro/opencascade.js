@@ -50,7 +50,7 @@ jobs:
 
       # Build the docker container
       - name: Build OpenCascade.js Bindings
-        timeout-minutes: 200
+        timeout-minutes: 500
         run: |
           docker run --init \
           -v "$(pwd)/build/":"/opencascade/build/" \
