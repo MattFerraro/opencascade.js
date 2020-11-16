@@ -119,6 +119,150 @@ def prepareFullWasmModules(buildType):
 
   return modules
 
+def prepareCADConverterWasmModules(buildType):
+  modules = []
+
+  thePackages = [
+    "FSD",
+    "MMgt",
+    "OSD",
+    "Plugin",
+    "Quantity",
+    "Resource",
+    "Standard",
+    "StdFail",
+    "Storage",
+    "TColStd",
+    "TCollection",
+    "TShort",
+    "Units",
+    "UnitsAPI",
+    "NCollection",
+    "Message",
+    "math",
+    "ElCLib",
+    "ElSLib",
+    "BSplCLib",
+    "PLib",
+    "Poly",
+    "CSLib",
+    "Bnd",
+    "BVH",
+    "gp",
+    "TColgp",
+    "TopLoc",
+    "Geom2d",
+    "Adaptor2d",
+    "Geom2dAdaptor",
+    "Geom",
+    "GeomAdaptor",
+    "AdvApprox",
+    "GeomLProp",
+    "Adaptor3d",
+    "TopAbs",
+    "ProjLib",
+    "GeomProjLib",
+    "GCPnts",
+    "Approx",
+    "AppParCurves",
+    "Extrema",
+    "IntAna",
+    "AdvApp2Var",
+    "GeomLib",
+    "BndLib",
+    "AppDef",
+    "TopoDS",
+    "TopExp",
+    "TopTools",
+    "BRep",
+    "BRepAdaptor",
+    "BRepTools",
+    "IntCurvesFace",
+    "BRepCheck",
+    "BRepBndLib",
+    "BRepClass",
+    "BRepClass3d",
+    "BRepLib",
+    "BRepTopAdaptor",
+    "BRepBuilderAPI",
+    "IntCurveSurface",
+    "Geom2dInt",
+    "IntImpParGen",
+    "IntRes2d",
+    "IntCurve",
+    "TopTrans",
+    "Intf",
+    "Geom2dAPI",
+    "ShapeBuild",
+    "ShapeExtend",
+    "ShapeConstruct",
+    "ShapeAnalysis",
+    "ShapeFix",
+    "ShapeUpgrade",
+    "ShapeAlgo",
+    "ShapeProcess",
+    "Interface",
+    "Transfer",
+    "IFGraph",
+    "IFSelect",
+    "TransferBRep",
+    "XSControl",
+    "StepData",
+    "StepFile",
+    "HeaderSection",
+    "RWHeaderSection",
+    "APIHeaderSection",
+    "StepSelect",
+    "UnitsMethods",
+    "XSAlgo",
+    "MoniTool",
+    "StepBasic",
+    "RWStepBasic",
+    "StepRepr",
+    "RWStepRepr",
+    "StepGeom",
+    "RWStepGeom",
+    "StepShape",
+    "RWStepShape",
+    "StepVisual",
+    "RWStepVisual",
+    "StepDimTol",
+    "StepElement",
+    "StepFEA",
+    "StepAP214",
+    "RWStepAP214",
+    "StepAP203",
+    "STEPConstruct",
+    "STEPEdit",
+    "StepToGeom",
+    "StepToTopoDS",
+    "STEPControl",
+    "STEPSelections",
+    "StepAP242",
+    "IMeshData",
+    "IMeshTools",
+    "BRepMeshData",
+    "BRepMesh",
+    "Aspect",
+    "Graphic3d",
+    "Image",
+    "Media",
+    "StdPrs",
+  ]
+
+  moduleName = "cad_converter"
+  theModule = WasmModule(moduleName, ModuleType.Standalone, "/opencascade.js/build/" + moduleName + ".cpp", "/opencascade.js/dist/" + buildType + "/" + moduleName, buildType, EnvType.Node)
+  theModule.setBuildSettings([
+    "-s", "ERROR_ON_UNDEFINED_SYMBOLS=0",
+    "-s", "EXTRA_EXPORTED_RUNTIME_METHODS=['FS']",
+  ])
+  modules.append(theModule)
+  
+  for thePackage in thePackages:
+    addPackageToWasmModule(thePackage, theModule, True)
+
+  return modules
+
 def prepareOCCTPackageWasmModules(buildType):
   modules = []
 
@@ -191,15 +335,18 @@ def chunks(lst, n):
   for i in range(0, len(lst), n):
     yield lst[i:i + n]
 
-allWasmModules.extend(prepareMainWasmModules(BuildType.Debug))
-allWasmModules.extend(prepareOCCTModuleWasmModules(BuildType.Debug))
-allWasmModules.extend(prepareFullWasmModules(BuildType.Debug))
-allWasmModules.extend(prepareOCCTPackageWasmModules(BuildType.Debug))
+# allWasmModules.extend(prepareMainWasmModules(BuildType.Debug))
+# allWasmModules.extend(prepareOCCTModuleWasmModules(BuildType.Debug))
+# allWasmModules.extend(prepareFullWasmModules(BuildType.Debug))
+# allWasmModules.extend(prepareOCCTPackageWasmModules(BuildType.Debug))
 
-allWasmModules.extend(prepareMainWasmModules(BuildType.Release))
-allWasmModules.extend(prepareOCCTModuleWasmModules(BuildType.Release))
-allWasmModules.extend(prepareFullWasmModules(BuildType.Release))
-allWasmModules.extend(prepareOCCTPackageWasmModules(BuildType.Release))
+# allWasmModules.extend(prepareMainWasmModules(BuildType.Release))
+# allWasmModules.extend(prepareOCCTModuleWasmModules(BuildType.Release))
+# allWasmModules.extend(prepareFullWasmModules(BuildType.Release))
+# allWasmModules.extend(prepareOCCTPackageWasmModules(BuildType.Release))
+
+allWasmModules.extend(prepareCADConverterWasmModules(BuildType.Release))
+allWasmModules.extend(prepareCADConverterWasmModules(BuildType.Debug))
 
 chunkedModules = list(chunks(allWasmModules, multiprocessing.cpu_count()*4))
 
