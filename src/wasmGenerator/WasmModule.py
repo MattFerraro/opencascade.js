@@ -868,7 +868,6 @@ class WasmModule:
     ]
     if self.moduleType == ModuleType.Standalone and self.envType == EnvType.Node:
       envFlags += [
-        "-s", "NODE_CODE_CACHING=1",
         "-s", "WASM_ASYNC_COMPILATION=0",
       ]
     command = [

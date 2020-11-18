@@ -1120,27 +1120,7 @@ function createWasm() {
   var binary;
   try {
    binary = getBinary();
-   if (ENVIRONMENT_IS_NODE) {
-    var v8 = require("v8");
-    var cachedCodeFile = "cad_converter.wasm." + v8.cachedDataVersionTag() + ".cached";
-    cachedCodeFile = locateFile(cachedCodeFile);
-    if (!nodeFS) nodeFS = require("fs");
-    var hasCached = nodeFS.existsSync(cachedCodeFile);
-    if (hasCached) {
-     try {
-      module = v8.deserialize(nodeFS.readFileSync(cachedCodeFile));
-     } catch (e) {
-      err("NODE_CODE_CACHING: failed to deserialize, bad cache file? (" + cachedCodeFile + ")");
-      hasCached = false;
-     }
-    }
-   }
-   if (!module) {
-    module = new WebAssembly.Module(binary);
-   }
-   if (ENVIRONMENT_IS_NODE && !hasCached) {
-    nodeFS.writeFileSync(cachedCodeFile, v8.serialize(module));
-   }
+   module = new WebAssembly.Module(binary);
    instance = new WebAssembly.Instance(module, info);
   } catch (e) {
    var str = e.toString();
