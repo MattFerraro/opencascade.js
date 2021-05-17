@@ -49,8 +49,7 @@ class WasmModule:
       self.libraryFiles.append(file)
     else:
       self.libraryFiles.extend([
-        "-L" + path,
-        "-l" + file
+        path + "lib" + file + ".a"
       ])
 
   def parse(self):
