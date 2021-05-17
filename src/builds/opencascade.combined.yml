@@ -209,3 +209,4 @@ opencascade.dataExchangeExtra.wasm:
     - -DHAVE_RAPIDJSON
     - -sSIDE_MODULE=1
     - -sDISABLE_EXCEPTION_CATCHING=1
+
