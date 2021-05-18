@@ -27,13 +27,13 @@ jobs:
       - name: Build OpenCascade.js Standard Modules
         timeout-minutes: 600
         run: |
-          docker run -v "$(pwd)/dist/":"/opencascade.js/dist/" -v "$(pwd)/build/":"/opencascade.js/build/" donalffons/opencascade.js
+          docker run -v "$(pwd)/dist/":"/opencascade.js/dist/" donalffons/opencascade.js
 
       - name: Build OpenCascade.js Combined Modules
         timeout-minutes: 600
         run: |
           cd dist
-          docker run -v "$(pwd)/":"/opencascade.js/dist/" -v "$(pwd)/../build/":"/opencascade.js/build/" donalffons/opencascade.js /opencascade.js/src/builds/opencascade.combined.yml
+          docker run -v "$(pwd)/":"/opencascade.js/dist/" sdonalffons/opencascade.js /opencascade.js/src/builds/opencascade.combined.yml
           cd ..
 
       - uses: actions/upload-artifact@v2
@@ -41,12 +41,6 @@ jobs:
         with:
           name: dist
           path: ./dist/
-
-      - uses: actions/upload-artifact@v2
-        if: ${{ always() }}
-        with:
-          name: build
-          path: ./build/
 
       - name: Git and NPM config
         if: github.ref == 'refs/heads/beta'
