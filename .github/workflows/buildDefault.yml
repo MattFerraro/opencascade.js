@@ -33,7 +33,7 @@ jobs:
         timeout-minutes: 600
         run: |
           cd dist
-          docker run -v "$(pwd)/":"/opencascade.js/dist/" sdonalffons/opencascade.js /opencascade.js/src/builds/opencascade.combined.yml
+          docker run -v "$(pwd)/":"/opencascade.js/dist/" donalffons/opencascade.js /opencascade.js/src/builds/opencascade.combined.yml
           cd ..
 
       - uses: actions/upload-artifact@v2
